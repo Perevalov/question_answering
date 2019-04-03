@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/award.award_winner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/award.award_winner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/g.1256h5mvr
+http://rdf.freebase.com/ns/m.02kl65h
+http://rdf.freebase.com/ns/m.05zppz
+http://rdf.freebase.com/ns/m.02_0bgf

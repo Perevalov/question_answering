@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/base.skosbase.topic
+http://rdf.freebase.com/ns/base.skosbase.vocabulary_equivalent_topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/base.skosbase.topic
+http://rdf.freebase.com/ns/base.skosbase.vocabulary_equivalent_topic
+http://rdf.freebase.com/ns/g.1258sqq7c
+http://rdf.freebase.com/ns/m.01xryvm
+http://rdf.freebase.com/ns/m.07h8n6f
+http://rdf.freebase.com/ns/m.02mdj1
+http://rdf.freebase.com/ns/m.02bhj1k
+http://rdf.freebase.com/ns/m.04r6hr5
+http://rdf.freebase.com/ns/m.0618j

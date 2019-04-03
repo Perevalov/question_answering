@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/government.election
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/government.election
+http://rdf.freebase.com/ns/g.125bpz8_7
+http://rdf.freebase.com/ns/m.02_7ld2
+http://rdf.freebase.com/ns/m.0j45jgv
+http://rdf.freebase.com/ns/m.03bwzwk
+http://rdf.freebase.com/ns/m.09gl683
+http://rdf.freebase.com/ns/m.0jq6gv9
+http://rdf.freebase.com/ns/m.0jq6gvk
+http://rdf.freebase.com/ns/m.04tzmt
+http://rdf.freebase.com/ns/m.0824r

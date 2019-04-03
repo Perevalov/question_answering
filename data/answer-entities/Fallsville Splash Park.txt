@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.employer
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/amusement_parks.park
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.employer
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/amusement_parks.park
+http://rdf.freebase.com/ns/g.1256r4mwp
+http://rdf.freebase.com/ns/m.04kcwlg
+http://rdf.freebase.com/ns/m.0wm856s
+http://rdf.freebase.com/ns/m.0y3k9
+http://rdf.freebase.com/ns/m.0g7tlb

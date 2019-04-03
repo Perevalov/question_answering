@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sports_league_draft
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sports_league_draft
+http://rdf.freebase.com/ns/g.12550n7xp
+http://rdf.freebase.com/ns/m.02h7c7j
+http://rdf.freebase.com/ns/m.09gmwj
+http://rdf.freebase.com/ns/m.04ksw7n
+http://rdf.freebase.com/ns/m.04vb3pp

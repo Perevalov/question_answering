@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.governmental_body
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.governmental_body
+http://rdf.freebase.com/ns/g.125brlw5g
+http://rdf.freebase.com/ns/m.02xlh4t
+http://rdf.freebase.com/ns/m.02729s
+http://rdf.freebase.com/ns/m.03lhz7r
+http://rdf.freebase.com/ns/m.0d0x8
+http://rdf.freebase.com/ns/m.03twx9
+http://rdf.freebase.com/ns/m.03twz1

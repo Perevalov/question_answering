@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/military.military_combatant
+http://rdf.freebase.com/ns/base.worldwonders.topic
+http://rdf.freebase.com/ns/base.worldwonders.wonder_creator
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/military.military_combatant
+http://rdf.freebase.com/ns/base.worldwonders.topic
+http://rdf.freebase.com/ns/base.worldwonders.wonder_creator
+http://rdf.freebase.com/ns/g.125bq29v1
+http://rdf.freebase.com/ns/m.02h76l9

@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.todolists.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/basketball.basketball_team
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.todolists.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/basketball.basketball_team
+http://rdf.freebase.com/ns/g.12590pwfk
+http://rdf.freebase.com/ns/m.01xrrd7
+http://rdf.freebase.com/ns/m.0gnygx
+http://rdf.freebase.com/ns/m.018w8
+http://rdf.freebase.com/ns/m.0f8l9c

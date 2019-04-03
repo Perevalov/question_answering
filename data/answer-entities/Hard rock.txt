@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/broadcast.genre
+http://rdf.freebase.com/ns/broadcast.radio_format
+http://rdf.freebase.com/ns/base.serjtankian.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/broadcast.genre
+http://rdf.freebase.com/ns/broadcast.radio_format
+http://rdf.freebase.com/ns/base.serjtankian.topic
+http://rdf.freebase.com/ns/g.1255sync_
+http://rdf.freebase.com/ns/m.0kpv1t
+http://rdf.freebase.com/ns/m.059y2qw
+http://rdf.freebase.com/ns/m.0xhv5

@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/education.school_district
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/education.school_district
+http://rdf.freebase.com/ns/g.1259s06gf
+http://rdf.freebase.com/ns/m.01y2hnd
+http://rdf.freebase.com/ns/m.076fn3h

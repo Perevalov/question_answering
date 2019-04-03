@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/tv.tv_actor
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/tv.tv_actor
+http://rdf.freebase.com/ns/g.1255178vs
+http://rdf.freebase.com/ns/m.01xrzlq
+http://rdf.freebase.com/ns/m.02zsn
+http://rdf.freebase.com/ns/m.04f_d
+http://rdf.freebase.com/ns/m.03ph7y7
+http://rdf.freebase.com/ns/m.0n1jkdc
+http://rdf.freebase.com/ns/m.025v4p2
+http://rdf.freebase.com/ns/m.0cvdwbb

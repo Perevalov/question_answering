@@ -1,0 +1,5 @@
+http://rdf.freebase.com/ns/base.armoryshow1913.exhibited_artwork
+http://rdf.freebase.com/ns/base.armoryshow1913.exhibited_artist
+http://rdf.freebase.com/ns/type.property
+http://rdf.freebase.com/ns/base.armoryshow1913.exhibited_artwork
+http://rdf.freebase.com/ns/base.armoryshow1913.exhibited_artist

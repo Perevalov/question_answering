@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.mascot
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.mascot
+http://rdf.freebase.com/ns/g.125bn82w_
+http://rdf.freebase.com/ns/m.02ht472
+http://rdf.freebase.com/ns/m.02f63p3
+http://rdf.freebase.com/ns/m.052tmjy
+http://rdf.freebase.com/ns/m.03_dwt
+http://rdf.freebase.com/ns/m.0713r

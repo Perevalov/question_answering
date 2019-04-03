@@ -1,0 +1,6 @@
+http://rdf.freebase.com/ns/base.skosbase.skos_concept
+http://rdf.freebase.com/ns/base.skosbase.skos_concept
+http://rdf.freebase.com/ns/m.0bp6t0y
+http://rdf.freebase.com/ns/m.0bnv1wf
+http://rdf.freebase.com/ns/m.0bnv1sz
+http://rdf.freebase.com/ns/m.0bp71_5

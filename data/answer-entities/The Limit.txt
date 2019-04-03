@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/music.artist
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/music.artist
+http://rdf.freebase.com/ns/g.1257t91gw
+http://rdf.freebase.com/ns/m.0kpv1m
+http://rdf.freebase.com/ns/m.0fr_pmf
+http://rdf.freebase.com/ns/m.0zz4z3

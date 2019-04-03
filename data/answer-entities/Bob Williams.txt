@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/sports.pro_athlete
+http://rdf.freebase.com/ns/basketball.basketball_player
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/sports.pro_athlete
+http://rdf.freebase.com/ns/basketball.basketball_player
+http://rdf.freebase.com/ns/g.125d4xkv9
+http://rdf.freebase.com/ns/m.01xrrch
+http://rdf.freebase.com/ns/m.05zppz
+http://rdf.freebase.com/ns/m.0d63w8w
+http://rdf.freebase.com/ns/m.04qhpd6
+http://rdf.freebase.com/ns/m.04qn9_g

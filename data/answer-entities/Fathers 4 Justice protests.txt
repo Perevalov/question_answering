@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/base.fight.topic
+http://rdf.freebase.com/ns/base.fight.protest
+http://rdf.freebase.com/ns/base.argumentmaps.moral_defence
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/base.fight.topic
+http://rdf.freebase.com/ns/base.fight.protest
+http://rdf.freebase.com/ns/base.argumentmaps.moral_defence
+http://rdf.freebase.com/ns/g.1259krt94
+http://rdf.freebase.com/ns/m.02xm94t
+http://rdf.freebase.com/ns/m.04jpl
+http://rdf.freebase.com/ns/m.09_t2w

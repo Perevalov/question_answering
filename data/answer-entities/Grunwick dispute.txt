@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/base.fight.labour_dispute
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/base.fight.labour_dispute
+http://rdf.freebase.com/ns/g.125g6_hmh
+http://rdf.freebase.com/ns/m.02xm94t
+http://rdf.freebase.com/ns/m.04jpl
+http://rdf.freebase.com/ns/m.098xlg

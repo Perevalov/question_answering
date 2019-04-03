@@ -1,0 +1,7 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/g.1257w4rhv
+http://rdf.freebase.com/ns/m.02xlh4m
+http://rdf.freebase.com/ns/m.04g8pnl

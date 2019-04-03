@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/book.author
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/base.newsevents.news_reporting_organisation
+http://rdf.freebase.com/ns/base.unitednations.topic
+http://rdf.freebase.com/ns/base.unitednations.united_nations_body
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/book.author
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/base.newsevents.news_reporting_organisation
+http://rdf.freebase.com/ns/base.unitednations.topic
+http://rdf.freebase.com/ns/base.unitednations.united_nations_body
+http://rdf.freebase.com/ns/g.1259rwkk7
+http://rdf.freebase.com/ns/m.02hr7t2

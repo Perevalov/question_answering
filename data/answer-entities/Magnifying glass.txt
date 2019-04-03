@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/base.allthingsnewyork.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/base.allthingsnewyork.topic
+http://rdf.freebase.com/ns/g.1255vd_70
+http://rdf.freebase.com/ns/m.02jcrkd
+http://rdf.freebase.com/ns/m.02b21j2
+http://rdf.freebase.com/ns/m.04pnw27
+http://rdf.freebase.com/ns/m.03t8bp1
+http://rdf.freebase.com/ns/m.030c3p
+http://rdf.freebase.com/ns/m.09ychd6
+http://rdf.freebase.com/ns/m.06g98

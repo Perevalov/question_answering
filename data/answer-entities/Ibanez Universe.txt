@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/music.guitar
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/music.guitar
+http://rdf.freebase.com/ns/g.125607b6y
+http://rdf.freebase.com/ns/m.0kpymm
+http://rdf.freebase.com/ns/m.07b7l98
+http://rdf.freebase.com/ns/m.04s7h3s
+http://rdf.freebase.com/ns/m.09yk6_
+http://rdf.freebase.com/ns/m.01mxt_
+http://rdf.freebase.com/ns/m.0dgkp3
+http://rdf.freebase.com/ns/m.03vk8

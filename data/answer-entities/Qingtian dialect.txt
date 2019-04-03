@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.medicalchinesetermswithpinyin.topic
+http://rdf.freebase.com/ns/language.language_dialect
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.medicalchinesetermswithpinyin.topic
+http://rdf.freebase.com/ns/language.language_dialect
+http://rdf.freebase.com/ns/g.125875wvg
+http://rdf.freebase.com/ns/m.02hr_7j
+http://rdf.freebase.com/ns/m.0bpyh2
+http://rdf.freebase.com/ns/m.01r2l

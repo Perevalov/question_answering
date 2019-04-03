@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film_character
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film_character
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/g.125f2_08p
+http://rdf.freebase.com/ns/m.02nsjl9
+http://rdf.freebase.com/ns/m.06zzgw_
+http://rdf.freebase.com/ns/m.084jtqs

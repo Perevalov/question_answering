@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/g.1259q0n23
+http://rdf.freebase.com/ns/m.01xrzlb
+http://rdf.freebase.com/ns/m.027lnq5
+http://rdf.freebase.com/ns/m.0798tzk
+http://rdf.freebase.com/ns/m.0798v61
+http://rdf.freebase.com/ns/m.0798v6p

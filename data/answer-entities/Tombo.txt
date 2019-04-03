@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/biology.organism
+http://rdf.freebase.com/ns/zoos.zoo_animal
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/biology.organism
+http://rdf.freebase.com/ns/zoos.zoo_animal
+http://rdf.freebase.com/ns/g.12582h2p6
+http://rdf.freebase.com/ns/m.050jjpw
+http://rdf.freebase.com/ns/m.096mb
+http://rdf.freebase.com/ns/m.0j0k6sk

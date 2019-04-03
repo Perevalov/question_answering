@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/fictional_universe.fictional_language
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/fictional_universe.fictional_language
+http://rdf.freebase.com/ns/g.1256x4nqk
+http://rdf.freebase.com/ns/m.0358
+http://rdf.freebase.com/ns/m.01z8pc
+http://rdf.freebase.com/ns/m.0j0k
+http://rdf.freebase.com/ns/m.03v09
+http://rdf.freebase.com/ns/m.01znc_
+http://rdf.freebase.com/ns/m.01z4vn
+http://rdf.freebase.com/ns/m.0c1f9cn
+http://rdf.freebase.com/ns/m.03gsz

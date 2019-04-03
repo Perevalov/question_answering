@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/g.125b2_vw8
+http://rdf.freebase.com/ns/m.019_
+http://rdf.freebase.com/ns/m.03s3bv1
+http://rdf.freebase.com/ns/m.02fb56y
+http://rdf.freebase.com/ns/m.05yxpl
+http://rdf.freebase.com/ns/m.04m35cj
+http://rdf.freebase.com/ns/m.019rg5

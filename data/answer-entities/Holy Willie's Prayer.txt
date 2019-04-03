@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.published_work
+http://rdf.freebase.com/ns/book.poem
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.published_work
+http://rdf.freebase.com/ns/book.poem
+http://rdf.freebase.com/ns/g.125b9f99d
+http://rdf.freebase.com/ns/m.01z025w
+http://rdf.freebase.com/ns/m.09482
+http://rdf.freebase.com/ns/m.02gmtbp
+http://rdf.freebase.com/ns/m.0cmqp40
+http://rdf.freebase.com/ns/m.0b1x49

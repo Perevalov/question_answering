@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.symbol_of_administrative_division
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.symbol_of_administrative_division
+http://rdf.freebase.com/ns/g.1259sbcg5
+http://rdf.freebase.com/ns/m.04624gc
+http://rdf.freebase.com/ns/m.0292d4q
+http://rdf.freebase.com/ns/m.09hw_24
+http://rdf.freebase.com/ns/m.067bnj
+http://rdf.freebase.com/ns/m.0jbdlj8

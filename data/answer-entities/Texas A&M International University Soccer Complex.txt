@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/architecture.structure
+http://rdf.freebase.com/ns/user.maxim75.default_domain.dbpedia_import
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/architecture.structure
+http://rdf.freebase.com/ns/user.maxim75.default_domain.dbpedia_import
+http://rdf.freebase.com/ns/g.125989lpr
+http://rdf.freebase.com/ns/m.01xljx3
+http://rdf.freebase.com/ns/m.0dck5c2
+http://rdf.freebase.com/ns/m.010bnr
+http://rdf.freebase.com/ns/m.04cvrf0

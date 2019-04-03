@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.recurring_event
+http://rdf.freebase.com/ns/business.brand
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.recurring_event
+http://rdf.freebase.com/ns/business.brand
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/g.1257l3wyc
+http://rdf.freebase.com/ns/m.03yw861
+http://rdf.freebase.com/ns/m.08j0kd
+http://rdf.freebase.com/ns/m.07y5sc2
+http://rdf.freebase.com/ns/m.0g4y2f6
+http://rdf.freebase.com/ns/m.0rsjf

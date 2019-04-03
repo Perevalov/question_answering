@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/aviation.airport
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/aviation.airport
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/g.1259n5z47
+http://rdf.freebase.com/ns/m.01xpjyz
+http://rdf.freebase.com/ns/m.02_hs2h
+http://rdf.freebase.com/ns/m.01zt425
+http://rdf.freebase.com/ns/m.0p03t
+http://rdf.freebase.com/ns/m.02fxkvl
+http://rdf.freebase.com/ns/m.04rvngx
+http://rdf.freebase.com/ns/m.06fndj
+http://rdf.freebase.com/ns/m.02cl1
+http://rdf.freebase.com/ns/m.0r8jv
+http://rdf.freebase.com/ns/m.0p03t

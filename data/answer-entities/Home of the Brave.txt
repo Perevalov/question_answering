@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/g.1258gz55v
+http://rdf.freebase.com/ns/m.01xrzlb
+http://rdf.freebase.com/ns/m.022rsn
+http://rdf.freebase.com/ns/m.05dgbht
+http://rdf.freebase.com/ns/m.05dgbhx
+http://rdf.freebase.com/ns/m.0kgsyhj
+http://rdf.freebase.com/ns/m.09nczqh
+http://rdf.freebase.com/ns/m.0gj0fzz
+http://rdf.freebase.com/ns/m.0ghxv8r
+http://rdf.freebase.com/ns/m.09p2z9_
+http://rdf.freebase.com/ns/m.0bw1_dc
+http://rdf.freebase.com/ns/m.0gfcz3
+http://rdf.freebase.com/ns/m.0chtp01

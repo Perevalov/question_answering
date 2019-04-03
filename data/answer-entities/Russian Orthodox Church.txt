@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/military.military_combatant
+http://rdf.freebase.com/ns/religion.religious_organization
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/base.godbase.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/military.military_combatant
+http://rdf.freebase.com/ns/religion.religious_organization
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/base.godbase.topic
+http://rdf.freebase.com/ns/g.12589hdfb
+http://rdf.freebase.com/ns/m.02knxzf

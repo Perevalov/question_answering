@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.employer
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/education.educational_institution
+http://rdf.freebase.com/ns/education.school
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.employer
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/education.educational_institution
+http://rdf.freebase.com/ns/education.school
+http://rdf.freebase.com/ns/g.1255hgmth
+http://rdf.freebase.com/ns/m.01y2hn6
+http://rdf.freebase.com/ns/m.02q5m2d
+http://rdf.freebase.com/ns/m.0_kzvp1
+http://rdf.freebase.com/ns/m.04nk3_d

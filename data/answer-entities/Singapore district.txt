@@ -1,0 +1,7 @@
+http://rdf.freebase.com/ns/type.type
+http://rdf.freebase.com/ns/m.08fwc_
+http://rdf.freebase.com/ns/m.043mhhg
+http://rdf.freebase.com/ns/m.09gl5b6
+http://rdf.freebase.com/ns/m.09gk_tp
+http://rdf.freebase.com/ns/m.09gkgc4
+http://rdf.freebase.com/ns/m.02x3wyh

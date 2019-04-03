@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/biology.organism_classification
+http://rdf.freebase.com/ns/location.symbol_of_administrative_division
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/biology.organism_classification
+http://rdf.freebase.com/ns/location.symbol_of_administrative_division
+http://rdf.freebase.com/ns/g.125f2ty4c
+http://rdf.freebase.com/ns/m.02scvxs
+http://rdf.freebase.com/ns/m.02cclyw
+http://rdf.freebase.com/ns/m.05c1l_1
+http://rdf.freebase.com/ns/m.06zf0
+http://rdf.freebase.com/ns/m.01zyd
+http://rdf.freebase.com/ns/m.0hz8x9r

@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.skosbase.topic
+http://rdf.freebase.com/ns/base.skosbase.vocabulary_equivalent_topic
+http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/people.profession
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.skosbase.topic
+http://rdf.freebase.com/ns/base.skosbase.vocabulary_equivalent_topic
+http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/people.profession
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/g.1256hsw1y
+http://rdf.freebase.com/ns/m.02h65n3

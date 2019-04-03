@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/broadcast.genre
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/broadcast.genre
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/g.1258hr1qz
+http://rdf.freebase.com/ns/m.0358
+http://rdf.freebase.com/ns/m.03sj537
+http://rdf.freebase.com/ns/m.07cv6

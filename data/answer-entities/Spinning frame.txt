@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.argumentmaps.original_idea
+http://rdf.freebase.com/ns/base.argumentmaps.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/base.tagit.man_made_thing
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.argumentmaps.original_idea
+http://rdf.freebase.com/ns/base.argumentmaps.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/base.tagit.man_made_thing
+http://rdf.freebase.com/ns/g.125g4_cfg
+http://rdf.freebase.com/ns/m.02jcrkd
+http://rdf.freebase.com/ns/m.05ln549
+http://rdf.freebase.com/ns/m.052wmt
+http://rdf.freebase.com/ns/m.01tglh

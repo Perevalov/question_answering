@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/g.125b9qw7_
+http://rdf.freebase.com/ns/m.019_
+http://rdf.freebase.com/ns/m.02z8k3
+http://rdf.freebase.com/ns/m.04m1lsv
+http://rdf.freebase.com/ns/m.05nnkw1
+http://rdf.freebase.com/ns/m.04m1ls_
+http://rdf.freebase.com/ns/m.01pj7

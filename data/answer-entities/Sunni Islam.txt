@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/religion.religion
+http://rdf.freebase.com/ns/base.godbase.topic
+http://rdf.freebase.com/ns/user.alexander.philosophy.school_of_thought
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/religion.religion
+http://rdf.freebase.com/ns/base.godbase.topic
+http://rdf.freebase.com/ns/user.alexander.philosophy.school_of_thought
+http://rdf.freebase.com/ns/g.125fjdbsv
+http://rdf.freebase.com/ns/m.02knxy9

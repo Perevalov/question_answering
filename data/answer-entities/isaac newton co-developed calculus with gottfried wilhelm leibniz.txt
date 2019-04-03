@@ -1,0 +1,6 @@
+http://rdf.freebase.com/ns/base.kwebbase.kwconnection
+http://rdf.freebase.com/ns/base.kwebbase.kwconnection
+http://rdf.freebase.com/ns/m.0c0k_v1
+http://rdf.freebase.com/ns/m.0c0p4cm
+http://rdf.freebase.com/ns/m.0372p
+http://rdf.freebase.com/ns/m.03s9v

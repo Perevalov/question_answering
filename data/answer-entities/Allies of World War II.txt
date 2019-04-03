@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/military.military_combatant
+http://rdf.freebase.com/ns/user.skud.boats.naval_combatant
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/military.military_combatant
+http://rdf.freebase.com/ns/user.skud.boats.naval_combatant
+http://rdf.freebase.com/ns/g.1258lhht3
+http://rdf.freebase.com/ns/m.02h76l9
+http://rdf.freebase.com/ns/m.02923_6

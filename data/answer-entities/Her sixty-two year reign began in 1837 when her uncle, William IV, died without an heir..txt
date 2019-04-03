@@ -1,0 +1,6 @@
+http://rdf.freebase.com/ns/base.kwebbase.kwsentence
+http://rdf.freebase.com/ns/base.kwebbase.kwsentence
+http://rdf.freebase.com/ns/m.0cw10
+http://rdf.freebase.com/ns/m.0c0qx7s
+http://rdf.freebase.com/ns/m.0c0qx80
+http://rdf.freebase.com/ns/m.0c10d43

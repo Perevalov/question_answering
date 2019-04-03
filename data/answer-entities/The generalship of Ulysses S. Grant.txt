@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/media_common.cataloged_instance
+http://rdf.freebase.com/ns/book.book_edition
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/media_common.cataloged_instance
+http://rdf.freebase.com/ns/book.book_edition
+http://rdf.freebase.com/ns/g.1256fnmn0
+http://rdf.freebase.com/ns/m.01xryw5
+http://rdf.freebase.com/ns/m.04w6j61
+http://rdf.freebase.com/ns/m.0781wfw
+http://rdf.freebase.com/ns/m.0g9n0
+http://rdf.freebase.com/ns/m.04xv4kn

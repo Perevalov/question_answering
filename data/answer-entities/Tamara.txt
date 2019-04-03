@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/award.award_winner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/base.adultentertainment.topic
+http://rdf.freebase.com/ns/base.adultentertainment.adult_entertainer
+http://rdf.freebase.com/ns/award.award_winner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/base.adultentertainment.topic
+http://rdf.freebase.com/ns/base.adultentertainment.adult_entertainer
+http://rdf.freebase.com/ns/g.12565xc6z
+http://rdf.freebase.com/ns/m.02kl65h
+http://rdf.freebase.com/ns/m.02hqr80
+http://rdf.freebase.com/ns/m.02zsn
+http://rdf.freebase.com/ns/m.06zff7l

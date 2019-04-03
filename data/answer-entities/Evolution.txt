@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.wrestling.topic
+http://rdf.freebase.com/ns/base.wrestling.solo_wrestler_or_team
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.wrestling.topic
+http://rdf.freebase.com/ns/base.wrestling.solo_wrestler_or_team
+http://rdf.freebase.com/ns/m.03tkp1z
+http://rdf.freebase.com/ns/m.09vwxcg
+http://rdf.freebase.com/ns/m.09vwxbk
+http://rdf.freebase.com/ns/m.03dxhp
+http://rdf.freebase.com/ns/m.02_r_l
+http://rdf.freebase.com/ns/m.01s4vc
+http://rdf.freebase.com/ns/m.0312n_
+http://rdf.freebase.com/ns/m.01x1b_

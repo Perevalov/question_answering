@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/g.1257dmhyn
+http://rdf.freebase.com/ns/m.0256724
+http://rdf.freebase.com/ns/m.04g2878
+http://rdf.freebase.com/ns/m.0194d
+http://rdf.freebase.com/ns/m.0ctw_b

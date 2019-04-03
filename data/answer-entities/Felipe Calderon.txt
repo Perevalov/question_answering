@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/visual_art.artwork
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/visual_art.artwork
+http://rdf.freebase.com/ns/g.1q56ftksp
+http://rdf.freebase.com/ns/m.01y2hcq
+http://rdf.freebase.com/ns/m.09b6zr
+http://rdf.freebase.com/ns/m.05qdh

@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.family
+http://rdf.freebase.com/ns/sports.sports_team_owner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.family
+http://rdf.freebase.com/ns/sports.sports_team_owner
+http://rdf.freebase.com/ns/g.1257281dn
+http://rdf.freebase.com/ns/m.02t8590
+http://rdf.freebase.com/ns/m.03nrwg2
+http://rdf.freebase.com/ns/m.030ky6
+http://rdf.freebase.com/ns/m.04gfwg
+http://rdf.freebase.com/ns/m.05n1blk
+http://rdf.freebase.com/ns/m.05n1bl7
+http://rdf.freebase.com/ns/m.03wp3tb
+http://rdf.freebase.com/ns/m.05n1bm5
+http://rdf.freebase.com/ns/m.05tfm

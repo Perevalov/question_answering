@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/g.1yy11r4_d
+http://rdf.freebase.com/ns/m.01n7
+http://rdf.freebase.com/ns/m.010gx6vc
+http://rdf.freebase.com/ns/m.01xbgx
+http://rdf.freebase.com/ns/m.0dlwj

@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film
+http://rdf.freebase.com/ns/award.award_winning_work
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film
+http://rdf.freebase.com/ns/award.award_winning_work
+http://rdf.freebase.com/ns/g.1yy60km1r
+http://rdf.freebase.com/ns/m.02kl65p
+http://rdf.freebase.com/ns/m.0jsg59
+http://rdf.freebase.com/ns/m.0jsg52
+http://rdf.freebase.com/ns/m.09c7w0
+http://rdf.freebase.com/ns/m.0_fk2r0

@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/travel.accommodation
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/travel.accommodation
+http://rdf.freebase.com/ns/g.1257kp6yc
+http://rdf.freebase.com/ns/m.03yw86s
+http://rdf.freebase.com/ns/m.03ywbhf
+http://rdf.freebase.com/ns/m.01h_rs
+http://rdf.freebase.com/ns/m.03ywbd_

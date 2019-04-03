@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/base.todolists.topic
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/base.todolists.topic
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/g.12595_wt8
+http://rdf.freebase.com/ns/m.0358
+http://rdf.freebase.com/ns/m.0bcy8q1
+http://rdf.freebase.com/ns/m.012psm

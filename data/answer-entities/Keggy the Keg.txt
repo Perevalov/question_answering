@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/type.content
+http://rdf.freebase.com/ns/common.image
+http://rdf.freebase.com/ns/type.content
+http://rdf.freebase.com/ns/common.image
+http://rdf.freebase.com/ns/m.08x8
+http://rdf.freebase.com/ns/m.02dj4t3
+http://rdf.freebase.com/ns/m.03spp_x
+http://rdf.freebase.com/ns/m.09rqhn
+http://rdf.freebase.com/ns/m.02dj4t8
+http://rdf.freebase.com/ns/m.034jd
+http://rdf.freebase.com/ns/m.05smz

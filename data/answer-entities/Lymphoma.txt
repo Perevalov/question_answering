@@ -1,0 +1,3 @@
+http://rdf.freebase.com/ns/user.benvvalk.default_domain.moby_output_descriptor
+http://rdf.freebase.com/ns/user.benvvalk.default_domain.moby_output_descriptor
+http://rdf.freebase.com/ns/m.04klhmg

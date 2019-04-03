@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.argumentmaps.original_idea
+http://rdf.freebase.com/ns/base.argumentmaps.topic
+http://rdf.freebase.com/ns/base.argumentmaps.idea
+http://rdf.freebase.com/ns/user.coco.science.topic
+http://rdf.freebase.com/ns/user.coco.science.concepts_theories
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.argumentmaps.original_idea
+http://rdf.freebase.com/ns/base.argumentmaps.topic
+http://rdf.freebase.com/ns/base.argumentmaps.idea
+http://rdf.freebase.com/ns/user.coco.science.topic
+http://rdf.freebase.com/ns/user.coco.science.concepts_theories

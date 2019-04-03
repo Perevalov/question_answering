@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/architecture.venue
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/architecture.structure
+http://rdf.freebase.com/ns/architecture.building
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/architecture.venue
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/architecture.structure
+http://rdf.freebase.com/ns/architecture.building
+http://rdf.freebase.com/ns/g.1256qcpqh
+http://rdf.freebase.com/ns/m.0hn6bxg
+http://rdf.freebase.com/ns/m.0gjbt

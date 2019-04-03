@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/type.type
+http://rdf.freebase.com/ns/freebase.type_profile
+http://rdf.freebase.com/ns/freebase.type_profile
+http://rdf.freebase.com/ns/m.02h_fk1
+http://rdf.freebase.com/ns/m.0dgm6v_
+http://rdf.freebase.com/ns/m.04kr
+http://rdf.freebase.com/ns/m.01c5
+http://rdf.freebase.com/ns/m.02k76q2
+http://rdf.freebase.com/ns/m.02k76qk
+http://rdf.freebase.com/ns/m.02h_fkb
+http://rdf.freebase.com/ns/m.02k76pm
+http://rdf.freebase.com/ns/m.02jcjc7
+http://rdf.freebase.com/ns/m.02hqglv
+http://rdf.freebase.com/ns/m.03sbb
+http://rdf.freebase.com/ns/m.01c5
+http://rdf.freebase.com/ns/m.06whss2

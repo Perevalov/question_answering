@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/base.musiteca.topic
+http://rdf.freebase.com/ns/base.musiteca.musicalstyle
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/base.musiteca.topic
+http://rdf.freebase.com/ns/base.musiteca.musicalstyle
+http://rdf.freebase.com/ns/g.125bnlbkt
+http://rdf.freebase.com/ns/m.0kpv1t
+http://rdf.freebase.com/ns/m.06305gc
+http://rdf.freebase.com/ns/m.06gkj
+http://rdf.freebase.com/ns/m.09kljcr
+http://rdf.freebase.com/ns/m.028p54

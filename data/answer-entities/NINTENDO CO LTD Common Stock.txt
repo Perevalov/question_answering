@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.issue
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.issue
+http://rdf.freebase.com/ns/g.1259nc89q
+http://rdf.freebase.com/ns/m.07vr91z
+http://rdf.freebase.com/ns/m.02zb8r
+http://rdf.freebase.com/ns/m.059wk
+http://rdf.freebase.com/ns/m.0ckmfzf
+http://rdf.freebase.com/ns/m.0ck_y96

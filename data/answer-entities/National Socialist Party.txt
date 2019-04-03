@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/government.political_party
+http://rdf.freebase.com/ns/base.ukparliament.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/government.political_party
+http://rdf.freebase.com/ns/base.ukparliament.topic
+http://rdf.freebase.com/ns/g.1258dzvys
+http://rdf.freebase.com/ns/m.01xljxh
+http://rdf.freebase.com/ns/m.020rdh
+http://rdf.freebase.com/ns/m.01q7nz
+http://rdf.freebase.com/ns/m.07ssc

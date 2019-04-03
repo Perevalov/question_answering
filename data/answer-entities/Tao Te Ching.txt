@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/book.translated_work
+http://rdf.freebase.com/ns/media_common.quotation_source
+http://rdf.freebase.com/ns/religion.religious_text
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/book.translated_work
+http://rdf.freebase.com/ns/media_common.quotation_source
+http://rdf.freebase.com/ns/religion.religious_text
+http://rdf.freebase.com/ns/g.1257ry0s0
+http://rdf.freebase.com/ns/m.02knxyp

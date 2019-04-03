@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/base.popstra.celebrity
+http://rdf.freebase.com/ns/base.popstra.topic
+http://rdf.freebase.com/ns/base.popstra.sww_base
+http://rdf.freebase.com/ns/celebrities.celebrity
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/base.popstra.celebrity
+http://rdf.freebase.com/ns/base.popstra.topic
+http://rdf.freebase.com/ns/base.popstra.sww_base
+http://rdf.freebase.com/ns/celebrities.celebrity
+http://rdf.freebase.com/ns/g.125bm53wl
+http://rdf.freebase.com/ns/m.02_7frv
+http://rdf.freebase.com/ns/m.06h7_ww
+http://rdf.freebase.com/ns/m.064vnbs

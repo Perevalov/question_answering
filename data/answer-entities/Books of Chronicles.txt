@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/religion.religious_text
+http://rdf.freebase.com/ns/base.chronicles.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/religion.religious_text
+http://rdf.freebase.com/ns/base.chronicles.topic
+http://rdf.freebase.com/ns/g.125734ygh
+http://rdf.freebase.com/ns/m.02knxyp

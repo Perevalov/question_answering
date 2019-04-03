@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/book.author
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/book.author
+http://rdf.freebase.com/ns/g.125g10fss
+http://rdf.freebase.com/ns/m.01xryvt
+http://rdf.freebase.com/ns/m.06fsdr9
+http://rdf.freebase.com/ns/m.03w97gd
+http://rdf.freebase.com/ns/m.06hvhk5
+http://rdf.freebase.com/ns/m.068_k1m
+http://rdf.freebase.com/ns/m.06l_5b9
+http://rdf.freebase.com/ns/m.0698k1y

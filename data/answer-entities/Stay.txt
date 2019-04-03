@@ -1,0 +1,1 @@
+http://rdf.freebase.com/ns/type.type

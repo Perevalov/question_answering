@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/government.politician
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/government.politician
+http://rdf.freebase.com/ns/g.1259601hm
+http://rdf.freebase.com/ns/m.02xlh55
+http://rdf.freebase.com/ns/m.0fj9f
+http://rdf.freebase.com/ns/m.09s1f
+http://rdf.freebase.com/ns/m.02zsn
+http://rdf.freebase.com/ns/m.0hz6vbl
+http://rdf.freebase.com/ns/m.0pcmlqq
+http://rdf.freebase.com/ns/m.04ljynk

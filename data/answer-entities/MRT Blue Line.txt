@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/metropolitan_transit.transit_system
+http://rdf.freebase.com/ns/metropolitan_transit.transit_line
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/metropolitan_transit.transit_system
+http://rdf.freebase.com/ns/metropolitan_transit.transit_line
+http://rdf.freebase.com/ns/g.125606vb0
+http://rdf.freebase.com/ns/m.02h7d8m
+http://rdf.freebase.com/ns/m.029_tcw
+http://rdf.freebase.com/ns/m.0h4c52m
+http://rdf.freebase.com/ns/m.02twxn
+http://rdf.freebase.com/ns/m.0fn2g
+http://rdf.freebase.com/ns/m.09rxwp
+http://rdf.freebase.com/ns/m.05724x
+http://rdf.freebase.com/ns/m.09rxwp

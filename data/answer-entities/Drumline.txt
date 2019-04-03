@@ -1,0 +1,2 @@
+http://rdf.freebase.com/ns/type.type
+http://rdf.freebase.com/ns/m.0k_vhj

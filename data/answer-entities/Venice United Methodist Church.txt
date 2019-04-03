@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/architecture.structure
+http://rdf.freebase.com/ns/architecture.building
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/architecture.structure
+http://rdf.freebase.com/ns/architecture.building
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/g.125c74m1p
+http://rdf.freebase.com/ns/m.01xljym
+http://rdf.freebase.com/ns/m.03trhhp
+http://rdf.freebase.com/ns/m.027l5dk
+http://rdf.freebase.com/ns/m.07_fl

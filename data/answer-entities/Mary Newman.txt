@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/film.person_or_entity_appearing_in_film
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/film.person_or_entity_appearing_in_film
+http://rdf.freebase.com/ns/g.12h2wllcm
+http://rdf.freebase.com/ns/m.0bgm3n7
+http://rdf.freebase.com/ns/m.02zsn
+http://rdf.freebase.com/ns/m.0v2fm1j

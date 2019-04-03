@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/transportation.road
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/base.tagit.place
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/transportation.road
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/base.tagit.place
+http://rdf.freebase.com/ns/g.1259dwlkt
+http://rdf.freebase.com/ns/m.03yw861
+http://rdf.freebase.com/ns/m.029hjlp
+http://rdf.freebase.com/ns/m.06j2np
+http://rdf.freebase.com/ns/m.056_y

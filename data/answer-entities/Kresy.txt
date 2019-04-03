@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/user.maxim75.default_domain.dbpedia_import
+http://rdf.freebase.com/ns/location.region
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/user.maxim75.default_domain.dbpedia_import
+http://rdf.freebase.com/ns/location.region
+http://rdf.freebase.com/ns/g.125c74md7
+http://rdf.freebase.com/ns/m.01n7
+http://rdf.freebase.com/ns/m.02j9z
+http://rdf.freebase.com/ns/m.09b69
+http://rdf.freebase.com/ns/m.079xstb
+http://rdf.freebase.com/ns/m.05ljq3p
+http://rdf.freebase.com/ns/m.02m0rv
+http://rdf.freebase.com/ns/m.02r5nc7

@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/internet.top_level_domain
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/internet.top_level_domain
+http://rdf.freebase.com/ns/g.1257jmc3j
+http://rdf.freebase.com/ns/m.02hsljc
+http://rdf.freebase.com/ns/m.0475p_
+http://rdf.freebase.com/ns/m.03kyp78
+http://rdf.freebase.com/ns/m.02hsmfn
+http://rdf.freebase.com/ns/m.04chyn
+http://rdf.freebase.com/ns/m.02hsn4g
+http://rdf.freebase.com/ns/m.03xvw1

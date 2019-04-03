@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/event.disaster
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/event.disaster
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/g.125b6c442
+http://rdf.freebase.com/ns/m.042_ltb
+http://rdf.freebase.com/ns/m.094xz
+http://rdf.freebase.com/ns/m.02b2lx2
+http://rdf.freebase.com/ns/m.04rw94t
+http://rdf.freebase.com/ns/m.041xv5r
+http://rdf.freebase.com/ns/m.031t8p
+http://rdf.freebase.com/ns/m.02r95nq

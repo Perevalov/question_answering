@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/sports.sports_league_season
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/sports.sports_league_season
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/g.1257t98vn
+http://rdf.freebase.com/ns/m.025b7qw
+http://rdf.freebase.com/ns/m.04tg49
+http://rdf.freebase.com/ns/m.04_78q0
+http://rdf.freebase.com/ns/m.04xwnrm

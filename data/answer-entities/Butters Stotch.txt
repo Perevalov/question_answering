@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/tv.tv_character
+http://rdf.freebase.com/ns/base.southpark.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/tv.tv_character
+http://rdf.freebase.com/ns/base.southpark.topic
+http://rdf.freebase.com/ns/g.1258dc9qc
+http://rdf.freebase.com/ns/m.02h7lkt
+http://rdf.freebase.com/ns/m.044rpf8
+http://rdf.freebase.com/ns/m.01tvkh
+http://rdf.freebase.com/ns/m.04hd82h
+http://rdf.freebase.com/ns/m.05zppz
+http://rdf.freebase.com/ns/m.01_x6v
+http://rdf.freebase.com/ns/m.01_x6d

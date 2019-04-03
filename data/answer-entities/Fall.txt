@@ -1,0 +1,6 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.truereligion.collection_season
+http://rdf.freebase.com/ns/base.truereligion.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.truereligion.collection_season
+http://rdf.freebase.com/ns/base.truereligion.topic

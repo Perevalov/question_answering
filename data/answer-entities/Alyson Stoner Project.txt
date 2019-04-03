@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film
+http://rdf.freebase.com/ns/g.1258wsxl6
+http://rdf.freebase.com/ns/m.0jsg2m
+http://rdf.freebase.com/ns/m.0h2jlpz
+http://rdf.freebase.com/ns/m.0h56r9r
+http://rdf.freebase.com/ns/m.04lsgm3
+http://rdf.freebase.com/ns/m.0g_fnhn
+http://rdf.freebase.com/ns/m.0gj5636
+http://rdf.freebase.com/ns/m.04rlf
+http://rdf.freebase.com/ns/m.09c7w0
+http://rdf.freebase.com/ns/m.084v2k
+http://rdf.freebase.com/ns/m.02h40lc
+http://rdf.freebase.com/ns/m.04crzq2
+http://rdf.freebase.com/ns/m.0cjjfmb

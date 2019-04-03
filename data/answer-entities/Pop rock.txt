@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.skosbase.topic
+http://rdf.freebase.com/ns/base.skosbase.vocabulary_equivalent_topic
+http://rdf.freebase.com/ns/media_common.media_genre
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/film.film_genre
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.skosbase.topic
+http://rdf.freebase.com/ns/base.skosbase.vocabulary_equivalent_topic
+http://rdf.freebase.com/ns/media_common.media_genre
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/film.film_genre
+http://rdf.freebase.com/ns/g.1259xm15d
+http://rdf.freebase.com/ns/m.0kpv1t
+http://rdf.freebase.com/ns/m.05bt6t

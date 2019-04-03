@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.fight.topic
+http://rdf.freebase.com/ns/base.nobelprizes.topic
+http://rdf.freebase.com/ns/base.nobelprizes.nobel_subject_area
+http://rdf.freebase.com/ns/base.fight.protest_type
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.fight.topic
+http://rdf.freebase.com/ns/base.nobelprizes.topic
+http://rdf.freebase.com/ns/base.nobelprizes.nobel_subject_area
+http://rdf.freebase.com/ns/base.fight.protest_type
+http://rdf.freebase.com/ns/m.02bhzpy
+http://rdf.freebase.com/ns/m.0291zbh
+http://rdf.freebase.com/ns/m.097t7
+http://rdf.freebase.com/ns/m.09xpm6w
+http://rdf.freebase.com/ns/m.064czpc
+http://rdf.freebase.com/ns/m.0g9w4sy

@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.schemastaging.topic
+http://rdf.freebase.com/ns/base.schemastaging.sports_team_extra
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/soccer.football_team
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.schemastaging.topic
+http://rdf.freebase.com/ns/base.schemastaging.sports_team_extra
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/soccer.football_team
+http://rdf.freebase.com/ns/g.1259bfj5d
+http://rdf.freebase.com/ns/m.01xljsc

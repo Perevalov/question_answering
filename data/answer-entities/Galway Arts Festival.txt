@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.recurring_event
+http://rdf.freebase.com/ns/base.events.topic
+http://rdf.freebase.com/ns/base.events.festival_series
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.recurring_event
+http://rdf.freebase.com/ns/base.events.topic
+http://rdf.freebase.com/ns/base.events.festival_series
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/g.1254xnrp7
+http://rdf.freebase.com/ns/m.04krh3f
+http://rdf.freebase.com/ns/m.03s2d91
+http://rdf.freebase.com/ns/m.04s7d24
+http://rdf.freebase.com/ns/m.017hsd
+http://rdf.freebase.com/ns/m.0bt2_m
+http://rdf.freebase.com/ns/m.0m__z

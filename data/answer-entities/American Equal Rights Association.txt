@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/g.12575n1dr
+http://rdf.freebase.com/ns/m.02hr7t2
+http://rdf.freebase.com/ns/m.0d0sv2
+http://rdf.freebase.com/ns/m.02zg0
+http://rdf.freebase.com/ns/m.0bwm9
+http://rdf.freebase.com/ns/m.06yw_
+http://rdf.freebase.com/ns/m.015bkp
+http://rdf.freebase.com/ns/m.097s4
+http://rdf.freebase.com/ns/m.0299ct

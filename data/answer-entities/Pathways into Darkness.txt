@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/cvg.game_version
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/cvg.game_version
+http://rdf.freebase.com/ns/g.1256knyj_
+http://rdf.freebase.com/ns/m.02hk9z5
+http://rdf.freebase.com/ns/m.09h57
+http://rdf.freebase.com/ns/m.01xw9c
+http://rdf.freebase.com/ns/m.09h57
+http://rdf.freebase.com/ns/m.0zd6

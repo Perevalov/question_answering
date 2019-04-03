@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/film.film_subject
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/base.allthingsnewyork.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/religion.religious_leadership_title
+http://rdf.freebase.com/ns/media_common.quotation_subject
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/film.film_subject
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/base.allthingsnewyork.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/religion.religious_leadership_title
+http://rdf.freebase.com/ns/media_common.quotation_subject

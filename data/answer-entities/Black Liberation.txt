@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.activism.activism_issue
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.activism.activism_issue
+http://rdf.freebase.com/ns/m.051cc
+http://rdf.freebase.com/ns/m.0cz_y
+http://rdf.freebase.com/ns/m.03f2h01
+http://rdf.freebase.com/ns/m.0515p
+http://rdf.freebase.com/ns/m.018y0w
+http://rdf.freebase.com/ns/m.0gkyy
+http://rdf.freebase.com/ns/m.035933
+http://rdf.freebase.com/ns/m.0bzy_
+http://rdf.freebase.com/ns/m.01m76z
+http://rdf.freebase.com/ns/m.0by88
+http://rdf.freebase.com/ns/m.01cyrz
+http://rdf.freebase.com/ns/m.039lfq

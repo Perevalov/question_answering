@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.form_of_government
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.form_of_government
+http://rdf.freebase.com/ns/g.1259f0v2x
+http://rdf.freebase.com/ns/m.02ydrtt
+http://rdf.freebase.com/ns/m.029gwnc
+http://rdf.freebase.com/ns/m.01d9rf

@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/education.field_of_study
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/education.field_of_study
+http://rdf.freebase.com/ns/g.1257xhkc4
+http://rdf.freebase.com/ns/m.0358

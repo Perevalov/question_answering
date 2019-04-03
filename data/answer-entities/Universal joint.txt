@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/g.1255_4w8m
+http://rdf.freebase.com/ns/m.02jcrkd
+http://rdf.freebase.com/ns/m.02dznt5
+http://rdf.freebase.com/ns/m.0hj5kc4
+http://rdf.freebase.com/ns/m.0hj7tk5
+http://rdf.freebase.com/ns/m.012d6f
+http://rdf.freebase.com/ns/m.0d6j4

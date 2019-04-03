@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/people.measured_person
+http://rdf.freebase.com/ns/sports.pro_athlete
+http://rdf.freebase.com/ns/sports.australian_rules_footballer
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/people.measured_person
+http://rdf.freebase.com/ns/sports.pro_athlete
+http://rdf.freebase.com/ns/sports.australian_rules_footballer
+http://rdf.freebase.com/ns/g.126tq65gs
+http://rdf.freebase.com/ns/m.02kqgg2
+http://rdf.freebase.com/ns/m.051l2g_
+http://rdf.freebase.com/ns/m.05zppz
+http://rdf.freebase.com/ns/m.0pb__1y
+http://rdf.freebase.com/ns/m.0pb_zgl
+http://rdf.freebase.com/ns/m.0pb_zqd

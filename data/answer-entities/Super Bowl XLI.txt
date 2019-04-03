@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/award.award_nominated_work
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/award.award_nominated_work
+http://rdf.freebase.com/ns/g.125d1drzj
+http://rdf.freebase.com/ns/m.01xrzlb
+http://rdf.freebase.com/ns/m.07cgs9p
+http://rdf.freebase.com/ns/m.07lzpq0
+http://rdf.freebase.com/ns/m.0r8dpyl
+http://rdf.freebase.com/ns/m.0bv2gl9
+http://rdf.freebase.com/ns/m.09nnlgg
+http://rdf.freebase.com/ns/m.09p5fzd
+http://rdf.freebase.com/ns/m.0ggvhky
+http://rdf.freebase.com/ns/m.09p0vft

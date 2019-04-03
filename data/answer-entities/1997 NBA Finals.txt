@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/sports.sports_championship_event
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/sports.sports_championship_event
+http://rdf.freebase.com/ns/g.1259xmnt8
+http://rdf.freebase.com/ns/m.025b7q2
+http://rdf.freebase.com/ns/m.08x959
+http://rdf.freebase.com/ns/m.0jm74
+http://rdf.freebase.com/ns/m.0jmhr
+http://rdf.freebase.com/ns/m.03m5x4
+http://rdf.freebase.com/ns/m.08hn_f

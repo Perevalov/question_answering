@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/martial_arts.martial_art
+http://rdf.freebase.com/ns/sports.sport
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/martial_arts.martial_art
+http://rdf.freebase.com/ns/sports.sport
+http://rdf.freebase.com/ns/g.1259st32q
+http://rdf.freebase.com/ns/m.02xhv5q

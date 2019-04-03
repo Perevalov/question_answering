@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/architecture.architect
+http://rdf.freebase.com/ns/visual_art.visual_artist
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/architecture.architect
+http://rdf.freebase.com/ns/visual_art.visual_artist
+http://rdf.freebase.com/ns/g.1256drq_2
+http://rdf.freebase.com/ns/m.01xljt3
+http://rdf.freebase.com/ns/m.0270__

@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/g.12590c3dw
+http://rdf.freebase.com/ns/m.04kr
+http://rdf.freebase.com/ns/m.02zsn
+http://rdf.freebase.com/ns/m.05b8s5q

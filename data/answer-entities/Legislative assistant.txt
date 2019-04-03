@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.job_title
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.job_title
+http://rdf.freebase.com/ns/g.125b9r70_
+http://rdf.freebase.com/ns/m.01xxxtp
+http://rdf.freebase.com/ns/m.047tqhl
+http://rdf.freebase.com/ns/m.0g8msjq
+http://rdf.freebase.com/ns/m.04fzfcy
+http://rdf.freebase.com/ns/m.04flfwk

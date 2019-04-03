@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/film.film
+http://rdf.freebase.com/ns/g.125h67_24
+http://rdf.freebase.com/ns/m.0jsg2m
+http://rdf.freebase.com/ns/m.0gwrkzm
+http://rdf.freebase.com/ns/m.02686wm

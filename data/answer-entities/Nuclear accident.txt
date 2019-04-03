@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/event.disaster_type
+http://rdf.freebase.com/ns/user.thadguidry.default_domain.abandoned_location_cause
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/event.disaster_type
+http://rdf.freebase.com/ns/user.thadguidry.default_domain.abandoned_location_cause
+http://rdf.freebase.com/ns/g.125cb16mw
+http://rdf.freebase.com/ns/m.059kpsl
+http://rdf.freebase.com/ns/m.0h73x3t
+http://rdf.freebase.com/ns/m.05fw6g7
+http://rdf.freebase.com/ns/m.0qjvd
+http://rdf.freebase.com/ns/m.02z83r
+http://rdf.freebase.com/ns/m.0h3q2jr
+http://rdf.freebase.com/ns/m.02vmm2d
+http://rdf.freebase.com/ns/m.0gh6mkc
+http://rdf.freebase.com/ns/m.07q37w

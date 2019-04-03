@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/education.educational_institution
+http://rdf.freebase.com/ns/education.school
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/education.educational_institution
+http://rdf.freebase.com/ns/education.school
+http://rdf.freebase.com/ns/g.125fyp41l
+http://rdf.freebase.com/ns/m.01y2hn6
+http://rdf.freebase.com/ns/m.02qh8sg

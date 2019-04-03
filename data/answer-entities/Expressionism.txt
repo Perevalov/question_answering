@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/freebase.domain_profile
+http://rdf.freebase.com/ns/type.domain
+http://rdf.freebase.com/ns/freebase.domain_profile
+http://rdf.freebase.com/ns/type.domain
+http://rdf.freebase.com/ns/m.04qgs7h
+http://rdf.freebase.com/ns/m.04qgs7n
+http://rdf.freebase.com/ns/m.04qf_xv
+http://rdf.freebase.com/ns/m.04sl1sr
+http://rdf.freebase.com/ns/m.04qgs7y

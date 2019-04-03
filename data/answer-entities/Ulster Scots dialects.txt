@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/base.ireland.topic
+http://rdf.freebase.com/ns/language.language_dialect
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/base.ireland.topic
+http://rdf.freebase.com/ns/language.language_dialect
+http://rdf.freebase.com/ns/g.1255g6l2r
+http://rdf.freebase.com/ns/m.02hr_7j
+http://rdf.freebase.com/ns/m.02c14ds
+http://rdf.freebase.com/ns/m.05lys41
+http://rdf.freebase.com/ns/m.078vn62
+http://rdf.freebase.com/ns/m.0165vm

@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/g.125cjn61w
+http://rdf.freebase.com/ns/m.03yw861
+http://rdf.freebase.com/ns/m.0svr52p
+http://rdf.freebase.com/ns/m.07f1x
+http://rdf.freebase.com/ns/m.01g9mf
+http://rdf.freebase.com/ns/m.0s8x5h0
+http://rdf.freebase.com/ns/m.04q9ng

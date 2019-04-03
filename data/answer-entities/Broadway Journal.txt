@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.magazine
+http://rdf.freebase.com/ns/book.periodical
+http://rdf.freebase.com/ns/base.edgarpoe.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.magazine
+http://rdf.freebase.com/ns/book.periodical
+http://rdf.freebase.com/ns/base.edgarpoe.topic
+http://rdf.freebase.com/ns/g.125fnc9lq
+http://rdf.freebase.com/ns/m.02k9ydn
+http://rdf.freebase.com/ns/m.02k9yq1
+http://rdf.freebase.com/ns/m.04rv7ml
+http://rdf.freebase.com/ns/m.0285kdt
+http://rdf.freebase.com/ns/m.0107vhkk
+http://rdf.freebase.com/ns/m.0107vgmv
+http://rdf.freebase.com/ns/m.05b9rby

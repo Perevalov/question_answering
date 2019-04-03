@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/g.1258315d4
+http://rdf.freebase.com/ns/m.0358
+http://rdf.freebase.com/ns/m.0h3nhhb
+http://rdf.freebase.com/ns/m.02px2cf
+http://rdf.freebase.com/ns/m.05kf4hf
+http://rdf.freebase.com/ns/m.05tkbky
+http://rdf.freebase.com/ns/m.0dg3n1
+http://rdf.freebase.com/ns/m.05f46
+http://rdf.freebase.com/ns/m.05tpjkx
+http://rdf.freebase.com/ns/m.05tn3lf
+http://rdf.freebase.com/ns/m.05cgv

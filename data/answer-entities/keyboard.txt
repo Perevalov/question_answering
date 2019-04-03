@@ -1,0 +1,4 @@
+http://rdf.freebase.com/ns/base.wordnet.word
+http://rdf.freebase.com/ns/base.wordnet.word
+http://rdf.freebase.com/ns/m.07rrzty
+http://rdf.freebase.com/ns/m.07q3d0q

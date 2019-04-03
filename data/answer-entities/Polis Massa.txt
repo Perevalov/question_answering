@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_setting
+http://rdf.freebase.com/ns/base.exoplanetology.topic
+http://rdf.freebase.com/ns/user.metapsyche.default_domain.fictional_planet
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_setting
+http://rdf.freebase.com/ns/base.exoplanetology.topic
+http://rdf.freebase.com/ns/user.metapsyche.default_domain.fictional_planet
+http://rdf.freebase.com/ns/g.125fh9wn6
+http://rdf.freebase.com/ns/m.02h7lk_
+http://rdf.freebase.com/ns/m.06w4qbz
+http://rdf.freebase.com/ns/m.06np3pp
+http://rdf.freebase.com/ns/m.0f1bg
+http://rdf.freebase.com/ns/m.0ddqw
+http://rdf.freebase.com/ns/m.0hmwfyw
+http://rdf.freebase.com/ns/m.05qc_

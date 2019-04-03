@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/award.award_winner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/m.04mny2g
+http://rdf.freebase.com/ns/user.micahsaul.advertising.ad_agency
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/award.award_winner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/m.04mny2g
+http://rdf.freebase.com/ns/user.micahsaul.advertising.ad_agency
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/g.1z254_89p
+http://rdf.freebase.com/ns/m.02kl65h
+http://rdf.freebase.com/ns/m.043008d
+http://rdf.freebase.com/ns/m.0_gkzcb
+http://rdf.freebase.com/ns/m.0_mtt56
+http://rdf.freebase.com/ns/m.0_mtv4b
+http://rdf.freebase.com/ns/m.0_mttq9

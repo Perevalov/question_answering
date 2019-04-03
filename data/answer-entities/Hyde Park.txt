@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.neighborhood
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.neighborhood
+http://rdf.freebase.com/ns/g.125bb0__r
+http://rdf.freebase.com/ns/m.01nf
+http://rdf.freebase.com/ns/m.0wmjn0v
+http://rdf.freebase.com/ns/m.0n1rj
+http://rdf.freebase.com/ns/m.03qzj4
+http://rdf.freebase.com/ns/m.08nqw7
+http://rdf.freebase.com/ns/m.0n1rj
+http://rdf.freebase.com/ns/m.03qzj4

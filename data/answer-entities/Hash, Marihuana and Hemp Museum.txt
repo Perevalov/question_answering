@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/base.tagit.place
+http://rdf.freebase.com/ns/base.cannapedia.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/base.tagit.place
+http://rdf.freebase.com/ns/base.cannapedia.topic
+http://rdf.freebase.com/ns/g.1ywbz6n03
+http://rdf.freebase.com/ns/m.03yw861
+http://rdf.freebase.com/ns/m.0_gs31z
+http://rdf.freebase.com/ns/m.079z464
+http://rdf.freebase.com/ns/m.06w7d4s
+http://rdf.freebase.com/ns/m.06wkrwj
+http://rdf.freebase.com/ns/m.0k3p

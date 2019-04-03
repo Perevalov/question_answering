@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/g.12565kq0h
+http://rdf.freebase.com/ns/m.02xlh4m
+http://rdf.freebase.com/ns/m.046cb9x
+http://rdf.freebase.com/ns/m.04xhm41
+http://rdf.freebase.com/ns/m.020z0g
+http://rdf.freebase.com/ns/m.0w0qtdb

@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/base.edgarpoe.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/projects.project_focus
+http://rdf.freebase.com/ns/base.edgarpoe.topic
+http://rdf.freebase.com/ns/g.125cql23f
+http://rdf.freebase.com/ns/m.05bh614
+http://rdf.freebase.com/ns/m.04sd65b
+http://rdf.freebase.com/ns/m.03tw8gg
+http://rdf.freebase.com/ns/m.0282m73
+http://rdf.freebase.com/ns/m.0101c281

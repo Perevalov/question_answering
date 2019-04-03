@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/fictional_universe.work_of_fiction
+http://rdf.freebase.com/ns/book.published_work
+http://rdf.freebase.com/ns/book.short_story
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/fictional_universe.work_of_fiction
+http://rdf.freebase.com/ns/book.published_work
+http://rdf.freebase.com/ns/book.short_story
+http://rdf.freebase.com/ns/g.125906txq
+http://rdf.freebase.com/ns/m.01z025p
+http://rdf.freebase.com/ns/m.03ppx
+http://rdf.freebase.com/ns/m.02h40lc
+http://rdf.freebase.com/ns/m.07y1jtf
+http://rdf.freebase.com/ns/m.0f627x
+http://rdf.freebase.com/ns/m.01hmnh

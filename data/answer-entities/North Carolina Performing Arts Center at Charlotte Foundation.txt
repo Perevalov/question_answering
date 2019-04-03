@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/architecture.building_occupant
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/organization.organization
+http://rdf.freebase.com/ns/architecture.building_occupant
+http://rdf.freebase.com/ns/g.1255pkhnm
+http://rdf.freebase.com/ns/m.02hr7t2
+http://rdf.freebase.com/ns/m.02g_ltf
+http://rdf.freebase.com/ns/m.0g0c2f
+http://rdf.freebase.com/ns/m.0k06bwk
+http://rdf.freebase.com/ns/m.0k06brt
+http://rdf.freebase.com/ns/m.0k06brz
+http://rdf.freebase.com/ns/m.0fsb8
+http://rdf.freebase.com/ns/m.0k0m3hv
+http://rdf.freebase.com/ns/m.0k06b7y

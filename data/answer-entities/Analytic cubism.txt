@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/visual_art.art_period_movement
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/visual_art.art_period_movement
+http://rdf.freebase.com/ns/g.1255496yc
+http://rdf.freebase.com/ns/m.01y2hbs
+http://rdf.freebase.com/ns/m.02bl2f6
+http://rdf.freebase.com/ns/m.070vcm
+http://rdf.freebase.com/ns/m.060_7
+http://rdf.freebase.com/ns/m.037f3
+http://rdf.freebase.com/ns/m.0435m
+http://rdf.freebase.com/ns/m.04d01s9

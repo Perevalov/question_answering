@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/tv.tv_character
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/tv.tv_character
+http://rdf.freebase.com/ns/g.1257kp49n
+http://rdf.freebase.com/ns/m.02h7lkt
+http://rdf.freebase.com/ns/m.028b1cc
+http://rdf.freebase.com/ns/m.05tw61d
+http://rdf.freebase.com/ns/m.05zppz
+http://rdf.freebase.com/ns/m.03n6jv
+http://rdf.freebase.com/ns/m.05srhnd
+http://rdf.freebase.com/ns/m.03bvng5
+http://rdf.freebase.com/ns/m.05st1f3
+http://rdf.freebase.com/ns/m.05srhnn

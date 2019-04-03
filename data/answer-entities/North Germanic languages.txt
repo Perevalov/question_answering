@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.todolists.topic
+http://rdf.freebase.com/ns/language.language_family
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.todolists.topic
+http://rdf.freebase.com/ns/language.language_family
+http://rdf.freebase.com/ns/g.1256gwhdh
+http://rdf.freebase.com/ns/m.035g

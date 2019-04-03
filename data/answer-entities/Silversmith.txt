@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/music.artist
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/music.artist
+http://rdf.freebase.com/ns/g.1256bxq13
+http://rdf.freebase.com/ns/m.0kpv1m
+http://rdf.freebase.com/ns/m.0dx6rbg
+http://rdf.freebase.com/ns/m.0d__fw2
+http://rdf.freebase.com/ns/m.0ffgs38
+http://rdf.freebase.com/ns/m.0ff_7b4
+http://rdf.freebase.com/ns/m.0dvtxlt
+http://rdf.freebase.com/ns/m.0fdfj5z
+http://rdf.freebase.com/ns/m.0dz2_jj
+http://rdf.freebase.com/ns/m.0ff_78y
+http://rdf.freebase.com/ns/m.0ff_79z
+http://rdf.freebase.com/ns/m.0fbj87z
+http://rdf.freebase.com/ns/m.049wr1c

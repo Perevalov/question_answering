@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sport
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sport
+http://rdf.freebase.com/ns/g.1yl5phhvd
+http://rdf.freebase.com/ns/m.025b7k_
+http://rdf.freebase.com/ns/m.0l_cf0f
+http://rdf.freebase.com/ns/m.0l_cdv1
+http://rdf.freebase.com/ns/m.04_sv
+http://rdf.freebase.com/ns/m.0105fss1
+http://rdf.freebase.com/ns/m.0l_cblq
+http://rdf.freebase.com/ns/m.0y_vn53
+http://rdf.freebase.com/ns/m.0l_cbl6
+http://rdf.freebase.com/ns/m.0l_cbks

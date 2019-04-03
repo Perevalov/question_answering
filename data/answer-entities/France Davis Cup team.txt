@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/award.award_nominee
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/award.award_nominee
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/g.125ccky1b
+http://rdf.freebase.com/ns/m.0256724
+http://rdf.freebase.com/ns/m.0z3_5_t
+http://rdf.freebase.com/ns/m.03tzjtv
+http://rdf.freebase.com/ns/m.02pnh1g
+http://rdf.freebase.com/ns/m.07bs0
+http://rdf.freebase.com/ns/m.0f8l9c

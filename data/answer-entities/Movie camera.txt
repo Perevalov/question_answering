@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/base.allthingsnewyork.topic
+http://rdf.freebase.com/ns/base.onephylogeny.type_of_thing
+http://rdf.freebase.com/ns/base.onephylogeny.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/law.invention
+http://rdf.freebase.com/ns/base.allthingsnewyork.topic
+http://rdf.freebase.com/ns/base.onephylogeny.type_of_thing
+http://rdf.freebase.com/ns/base.onephylogeny.topic
+http://rdf.freebase.com/ns/g.1258tzsgh
+http://rdf.freebase.com/ns/m.02jcrkd
+http://rdf.freebase.com/ns/m.02c23tg
+http://rdf.freebase.com/ns/m.01cbhk
+http://rdf.freebase.com/ns/m.09yb85v
+http://rdf.freebase.com/ns/m.07bty
+http://rdf.freebase.com/ns/m.0h7hxgb

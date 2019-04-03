@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tennis.tennis_grip_style
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/tennis.tennis_grip_style
+http://rdf.freebase.com/ns/m.0gfn8zr
+http://rdf.freebase.com/ns/m.01my95
+http://rdf.freebase.com/ns/m.01vzqp
+http://rdf.freebase.com/ns/m.0hgst
+http://rdf.freebase.com/ns/m.01jyjs
+http://rdf.freebase.com/ns/m.01gpr
+http://rdf.freebase.com/ns/m.059rpy

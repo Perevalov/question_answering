@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.x2010fifaworldcupsouthafrica.topic
+http://rdf.freebase.com/ns/base.x2010fifaworldcupsouthafrica.tournament_result
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.x2010fifaworldcupsouthafrica.topic
+http://rdf.freebase.com/ns/base.x2010fifaworldcupsouthafrica.tournament_result
+http://rdf.freebase.com/ns/m.0h0b4cw
+http://rdf.freebase.com/ns/m.03s7vs
+http://rdf.freebase.com/ns/m.075hyvd
+http://rdf.freebase.com/ns/m.0ck8_mv

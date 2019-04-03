@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/architecture.museum
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/architecture.museum
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/g.125djp5bx
+http://rdf.freebase.com/ns/m.01y2hbz
+http://rdf.freebase.com/ns/m.05jbn
+http://rdf.freebase.com/ns/m.0fpc2jw
+http://rdf.freebase.com/ns/m.05jbn
+http://rdf.freebase.com/ns/m.0fpc2d8
+http://rdf.freebase.com/ns/m.0fpc2hp
+http://rdf.freebase.com/ns/m.0fpc2j9

@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.employer
+http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue
+http://rdf.freebase.com/ns/cvg.cvg_platform
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.employer
+http://rdf.freebase.com/ns/user.alust.default_domain.processed_with_review_queue
+http://rdf.freebase.com/ns/cvg.cvg_platform
+http://rdf.freebase.com/ns/g.12561y3vy
+http://rdf.freebase.com/ns/m.021y6nm
+http://rdf.freebase.com/ns/m.02g6tl5
+http://rdf.freebase.com/ns/m.03scvgh
+http://rdf.freebase.com/ns/m.07l9t_
+http://rdf.freebase.com/ns/m.0j9vlg7
+http://rdf.freebase.com/ns/m.040qmbq
+http://rdf.freebase.com/ns/m.02hlt6c
+http://rdf.freebase.com/ns/m.05nrp1v

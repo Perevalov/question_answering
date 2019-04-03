@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.citytown
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.citytown
+http://rdf.freebase.com/ns/g.125grmbh9
+http://rdf.freebase.com/ns/m.01m9
+http://rdf.freebase.com/ns/m.04bs535
+http://rdf.freebase.com/ns/m.07h34
+http://rdf.freebase.com/ns/m.0mszc

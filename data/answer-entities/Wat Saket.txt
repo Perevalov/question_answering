@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/religion.place_of_worship
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/religion.place_of_worship
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/g.125619tyl
+http://rdf.freebase.com/ns/m.02_wph6
+http://rdf.freebase.com/ns/m.02_vgt6
+http://rdf.freebase.com/ns/m.0fn2g
+http://rdf.freebase.com/ns/m.02g974p
+http://rdf.freebase.com/ns/m.0h6w75
+http://rdf.freebase.com/ns/m.0cx45
+http://rdf.freebase.com/ns/m.0fn2g
+http://rdf.freebase.com/ns/m.092bf5

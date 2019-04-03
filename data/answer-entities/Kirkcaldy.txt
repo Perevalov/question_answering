@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.dated_location
+http://rdf.freebase.com/ns/government.political_district
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.dated_location
+http://rdf.freebase.com/ns/government.political_district
+http://rdf.freebase.com/ns/g.1258kx6yx
+http://rdf.freebase.com/ns/m.02xlh4f
+http://rdf.freebase.com/ns/m.02dhybv
+http://rdf.freebase.com/ns/m.09qzsg

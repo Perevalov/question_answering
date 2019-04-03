@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/g.125dz73gk
+http://rdf.freebase.com/ns/m.02xlh4m
+http://rdf.freebase.com/ns/m.04j5sk4
+http://rdf.freebase.com/ns/m.0hz7h7w
+http://rdf.freebase.com/ns/m.04j5sk8
+http://rdf.freebase.com/ns/m.0hz7h84
+http://rdf.freebase.com/ns/m.0j28n0c
+http://rdf.freebase.com/ns/m.0n9zms_
+http://rdf.freebase.com/ns/m.0fkvn
+http://rdf.freebase.com/ns/m.07h34

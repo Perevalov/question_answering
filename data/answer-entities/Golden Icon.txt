@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/award.award_category
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/award.award_category
+http://rdf.freebase.com/ns/g.1258ymqk5
+http://rdf.freebase.com/ns/m.02kl648
+http://rdf.freebase.com/ns/m.07n939r
+http://rdf.freebase.com/ns/m.07n94fh
+http://rdf.freebase.com/ns/m.04f6dtr
+http://rdf.freebase.com/ns/m.02vxn
+http://rdf.freebase.com/ns/m.0871jwq

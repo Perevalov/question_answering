@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.handball.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/user.hangy.default_domain.sports_team_gender
+http://rdf.freebase.com/ns/base.handball.handball_team
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.handball.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/user.hangy.default_domain.sports_team_gender
+http://rdf.freebase.com/ns/base.handball.handball_team
+http://rdf.freebase.com/ns/g.125563_2c
+http://rdf.freebase.com/ns/m.0256724
+http://rdf.freebase.com/ns/m.051zfgv
+http://rdf.freebase.com/ns/m.03krj
+http://rdf.freebase.com/ns/m.06mkj
+http://rdf.freebase.com/ns/m.02zsn
+http://rdf.freebase.com/ns/m.07zl58p

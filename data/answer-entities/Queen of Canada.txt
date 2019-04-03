@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/royalty.noble_title
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.government_office_or_title
+http://rdf.freebase.com/ns/royalty.noble_title
+http://rdf.freebase.com/ns/g.125b9r7qp
+http://rdf.freebase.com/ns/m.02xlh4m
+http://rdf.freebase.com/ns/m.04g8pm8
+http://rdf.freebase.com/ns/m.04l4rl5
+http://rdf.freebase.com/ns/m.04l4q9m

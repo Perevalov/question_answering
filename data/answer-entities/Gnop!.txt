@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/cvg.computer_videogame
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/cvg.computer_videogame
+http://rdf.freebase.com/ns/g.125chk5xx
+http://rdf.freebase.com/ns/m.021y6mf
+http://rdf.freebase.com/ns/m.09h57
+http://rdf.freebase.com/ns/m.022dc6
+http://rdf.freebase.com/ns/m.069t82
+http://rdf.freebase.com/ns/m.0kymvsc
+http://rdf.freebase.com/ns/m.02hmf94
+http://rdf.freebase.com/ns/m.09h57
+http://rdf.freebase.com/ns/m.0323k2
+http://rdf.freebase.com/ns/m.06rrtn

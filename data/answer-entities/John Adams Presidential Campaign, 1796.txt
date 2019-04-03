@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.election_campaign
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/government.election_campaign
+http://rdf.freebase.com/ns/g.1255lzdvh
+http://rdf.freebase.com/ns/m.02_7ld8
+http://rdf.freebase.com/ns/m.07wgm
+http://rdf.freebase.com/ns/m.03_js
+http://rdf.freebase.com/ns/m.0b2gc

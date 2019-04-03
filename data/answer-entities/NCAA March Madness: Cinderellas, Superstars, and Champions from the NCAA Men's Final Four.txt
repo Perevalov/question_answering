@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/base.marchmadness.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.written_work
+http://rdf.freebase.com/ns/book.book
+http://rdf.freebase.com/ns/base.marchmadness.topic
+http://rdf.freebase.com/ns/g.1259rkm3v
+http://rdf.freebase.com/ns/m.01xryvm
+http://rdf.freebase.com/ns/m.0gh43
+http://rdf.freebase.com/ns/m.05kdlk8
+http://rdf.freebase.com/ns/m.02h40lc
+http://rdf.freebase.com/ns/m.05c_596
+http://rdf.freebase.com/ns/m.02jp2w

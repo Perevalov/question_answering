@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/aviation.aircraft_model
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/aviation.aircraft_model
+http://rdf.freebase.com/ns/g.1255d34nd
+http://rdf.freebase.com/ns/m.01xpjx2
+http://rdf.freebase.com/ns/m.03s6p8m
+http://rdf.freebase.com/ns/m.0bt3mz
+http://rdf.freebase.com/ns/m.0fzv_

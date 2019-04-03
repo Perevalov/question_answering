@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.time_zone
+http://rdf.freebase.com/ns/m.075w7f8
+http://rdf.freebase.com/ns/base.cityofbari.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.time_zone
+http://rdf.freebase.com/ns/m.075w7f8
+http://rdf.freebase.com/ns/base.cityofbari.topic
+http://rdf.freebase.com/ns/g.1254yq_hs
+http://rdf.freebase.com/ns/m.02nsj6r
+http://rdf.freebase.com/ns/m.05plmmw
+http://rdf.freebase.com/ns/m.05tzm54
+http://rdf.freebase.com/ns/m.02llzr

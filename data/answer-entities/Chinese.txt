@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/type.lang
+http://rdf.freebase.com/ns/base.cldrinfo.langinfo
+http://rdf.freebase.com/ns/type.lang
+http://rdf.freebase.com/ns/base.cldrinfo.langinfo
+http://rdf.freebase.com/ns/m.03k
+http://rdf.freebase.com/ns/m.0gwsgcg
+http://rdf.freebase.com/ns/m.0gwsbtw
+http://rdf.freebase.com/ns/m.0gwsgcq

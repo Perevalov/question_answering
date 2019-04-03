@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/architecture.museum
+http://rdf.freebase.com/ns/architecture.building_occupant
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/architecture.museum
+http://rdf.freebase.com/ns/architecture.building_occupant
+http://rdf.freebase.com/ns/g.125g1147g
+http://rdf.freebase.com/ns/m.01y2hbz
+http://rdf.freebase.com/ns/m.0k3nl_b
+http://rdf.freebase.com/ns/m.0hhbr

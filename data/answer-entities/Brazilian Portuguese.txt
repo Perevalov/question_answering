@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/language.language_dialect
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.schemastaging.context_name
+http://rdf.freebase.com/ns/language.language_dialect
+http://rdf.freebase.com/ns/g.125fqhpyv
+http://rdf.freebase.com/ns/m.0358
+http://rdf.freebase.com/ns/m.02zj5g
+http://rdf.freebase.com/ns/m.06bpx
+http://rdf.freebase.com/ns/m.015fr
+http://rdf.freebase.com/ns/m.015fr
+http://rdf.freebase.com/ns/m.04n0p
+http://rdf.freebase.com/ns/m.05zjd

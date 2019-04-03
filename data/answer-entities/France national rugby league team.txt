@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/base.rugby.rugby_club
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/sports.sports_team
+http://rdf.freebase.com/ns/base.rugby.rugby_club
+http://rdf.freebase.com/ns/g.1254y3jnk
+http://rdf.freebase.com/ns/m.0256724
+http://rdf.freebase.com/ns/m.03v1ty
+http://rdf.freebase.com/ns/m.0b6r6t2
+http://rdf.freebase.com/ns/m.06f3l
+http://rdf.freebase.com/ns/m.0f8l9c
+http://rdf.freebase.com/ns/m.05zppz

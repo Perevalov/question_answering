@@ -1,0 +1,4 @@
+http://rdf.freebase.com/ns/base.rosetta.local_name
+http://rdf.freebase.com/ns/base.rosetta.local_name
+http://rdf.freebase.com/ns/m.02ztjwg
+http://rdf.freebase.com/ns/m.07t21

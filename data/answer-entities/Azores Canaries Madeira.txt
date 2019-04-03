@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/base.scubadiving.topic
+http://rdf.freebase.com/ns/base.scubadiving.ecoregion
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/base.scubadiving.topic
+http://rdf.freebase.com/ns/base.scubadiving.ecoregion
+http://rdf.freebase.com/ns/g.125dcygs8
+http://rdf.freebase.com/ns/m.01n7
+http://rdf.freebase.com/ns/m.04_z1
+http://rdf.freebase.com/ns/m.01qtt
+http://rdf.freebase.com/ns/m.04g96fm

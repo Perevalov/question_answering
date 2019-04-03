@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.island
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.island
+http://rdf.freebase.com/ns/travel.tourist_attraction
+http://rdf.freebase.com/ns/g.1258hr1gz
+http://rdf.freebase.com/ns/m.02h5yxm
+http://rdf.freebase.com/ns/m.02_q4ph
+http://rdf.freebase.com/ns/m.041tjrd
+http://rdf.freebase.com/ns/m.026xs3f
+http://rdf.freebase.com/ns/m.01q98m

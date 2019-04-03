@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.industry
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/business.industry
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/g.125f2tw2y
+http://rdf.freebase.com/ns/m.01xxxsy
+http://rdf.freebase.com/ns/m.03qvp2q
+http://rdf.freebase.com/ns/m.03q9x3w
+http://rdf.freebase.com/ns/m.01556g
+http://rdf.freebase.com/ns/m.02x79zx
+http://rdf.freebase.com/ns/m.04yr3vt
+http://rdf.freebase.com/ns/m.09kkqqy

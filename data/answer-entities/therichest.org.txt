@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/dataworld.information_source
+http://rdf.freebase.com/ns/common.licensed_object
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/dataworld.information_source
+http://rdf.freebase.com/ns/common.licensed_object
+http://rdf.freebase.com/ns/g.125ftf92c
+http://rdf.freebase.com/ns/m.01xrdyr
+http://rdf.freebase.com/ns/m.0jvmhps
+http://rdf.freebase.com/ns/m.0jvmhrk
+http://rdf.freebase.com/ns/m.0j8mjlv

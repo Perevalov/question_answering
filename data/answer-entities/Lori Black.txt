@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/g.1257j54pd
+http://rdf.freebase.com/ns/m.04kr
+http://rdf.freebase.com/ns/m.04m1
+http://rdf.freebase.com/ns/m.04m8
+http://rdf.freebase.com/ns/m.04nt
+http://rdf.freebase.com/ns/m.02zsn
+http://rdf.freebase.com/ns/m.0hj73ng
+http://rdf.freebase.com/ns/m.0hj73n8
+http://rdf.freebase.com/ns/m.0l1ysg9
+http://rdf.freebase.com/ns/m.0hn2lww

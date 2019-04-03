@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.dated_location
+http://rdf.freebase.com/ns/protected_sites.protected_site
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.dated_location
+http://rdf.freebase.com/ns/protected_sites.protected_site
+http://rdf.freebase.com/ns/g.12v7yhrnl
+http://rdf.freebase.com/ns/m.02h8512
+http://rdf.freebase.com/ns/m.0xn7mj5
+http://rdf.freebase.com/ns/m.02frhbc
+http://rdf.freebase.com/ns/m.09gg_b8
+http://rdf.freebase.com/ns/m.0g581mv

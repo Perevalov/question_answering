@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.island_group
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.island_group
+http://rdf.freebase.com/ns/g.125crt_3s
+http://rdf.freebase.com/ns/m.01xxv5b
+http://rdf.freebase.com/ns/m.04_z1
+http://rdf.freebase.com/ns/m.07n3h5
+http://rdf.freebase.com/ns/m.039ql7
+http://rdf.freebase.com/ns/m.0384fk

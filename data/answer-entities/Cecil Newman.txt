@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/people.deceased_person
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/people.deceased_person
+http://rdf.freebase.com/ns/g.1257hvk88
+http://rdf.freebase.com/ns/m.022tfrk
+http://rdf.freebase.com/ns/m.05zppz
+http://rdf.freebase.com/ns/m.04f_d
+http://rdf.freebase.com/ns/m.03ph81g
+http://rdf.freebase.com/ns/m.03pw3cm
+http://rdf.freebase.com/ns/m.027vtjd

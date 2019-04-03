@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.periodical
+http://rdf.freebase.com/ns/book.newspaper
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.periodical
+http://rdf.freebase.com/ns/book.newspaper
+http://rdf.freebase.com/ns/g.125ff0pbz
+http://rdf.freebase.com/ns/m.02k9yd8
+http://rdf.freebase.com/ns/m.03crmzv
+http://rdf.freebase.com/ns/m.03l40px
+http://rdf.freebase.com/ns/m.0jw2n2b
+http://rdf.freebase.com/ns/m.03rjj
+http://rdf.freebase.com/ns/m.0947l
+http://rdf.freebase.com/ns/m.04m7kfh
+http://rdf.freebase.com/ns/m.04z3ldv

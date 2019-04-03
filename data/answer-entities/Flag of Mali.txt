@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/symbols.flag
+http://rdf.freebase.com/ns/user.skud.flags.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/symbols.flag
+http://rdf.freebase.com/ns/user.skud.flags.topic
+http://rdf.freebase.com/ns/m.02c1vz
+http://rdf.freebase.com/ns/m.0jrcb82

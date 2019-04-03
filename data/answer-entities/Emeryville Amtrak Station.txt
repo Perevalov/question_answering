@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/travel.transport_terminus
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/travel.transport_terminus
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/g.125bwrqv7
+http://rdf.freebase.com/ns/m.01n7
+http://rdf.freebase.com/ns/m.04fnpr4
+http://rdf.freebase.com/ns/m.05279tw
+http://rdf.freebase.com/ns/m.0kpzy
+http://rdf.freebase.com/ns/m.01zdj7f
+http://rdf.freebase.com/ns/m.02ggmmq
+http://rdf.freebase.com/ns/m.08kpr5

@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/film.actor
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/film.actor
+http://rdf.freebase.com/ns/g.125czpfxx
+http://rdf.freebase.com/ns/m.0jsg4j
+http://rdf.freebase.com/ns/m.070nw_0

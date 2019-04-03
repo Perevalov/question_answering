@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.mountain
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.mountain
+http://rdf.freebase.com/ns/g.12578zj33
+http://rdf.freebase.com/ns/m.01xs033
+http://rdf.freebase.com/ns/m.02_pq73
+http://rdf.freebase.com/ns/m.0dyg2
+http://rdf.freebase.com/ns/m.0267nl3
+http://rdf.freebase.com/ns/m.0262m3k
+http://rdf.freebase.com/ns/m.043tvkr
+http://rdf.freebase.com/ns/m.07_9_
+http://rdf.freebase.com/ns/m.05cdkt

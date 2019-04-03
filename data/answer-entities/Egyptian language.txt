@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/language.language_writing_system
+http://rdf.freebase.com/ns/fictional_universe.fictional_language
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/base.rosetta.languoid
+http://rdf.freebase.com/ns/language.language_writing_system
+http://rdf.freebase.com/ns/fictional_universe.fictional_language
+http://rdf.freebase.com/ns/g.125ftknqd
+http://rdf.freebase.com/ns/m.0358
+http://rdf.freebase.com/ns/m.03qwm8b
+http://rdf.freebase.com/ns/m.02std
+http://rdf.freebase.com/ns/m.0cn7f

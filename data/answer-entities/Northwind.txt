@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/comic_books.comic_book_character
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_character
+http://rdf.freebase.com/ns/comic_books.comic_book_character
+http://rdf.freebase.com/ns/g.125h511lt
+http://rdf.freebase.com/ns/m.02hqb47
+http://rdf.freebase.com/ns/m.05bhnk
+http://rdf.freebase.com/ns/m.05zppz
+http://rdf.freebase.com/ns/m.02gnlz
+http://rdf.freebase.com/ns/m.060mzg
+http://rdf.freebase.com/ns/m.01515d

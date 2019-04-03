@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/government.form_of_government
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.ontologies.ontology_instance
+http://rdf.freebase.com/ns/government.form_of_government
+http://rdf.freebase.com/ns/g.125b02z_3
+http://rdf.freebase.com/ns/m.02ydrtt
+http://rdf.freebase.com/ns/m.05ljg_p
+http://rdf.freebase.com/ns/m.0drnx

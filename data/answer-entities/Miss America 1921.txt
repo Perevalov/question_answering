@@ -1,0 +1,17 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/base.missamerica.topic
+http://rdf.freebase.com/ns/award.competition
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/time.event
+http://rdf.freebase.com/ns/base.missamerica.topic
+http://rdf.freebase.com/ns/award.competition
+http://rdf.freebase.com/ns/g.12564jgyn
+http://rdf.freebase.com/ns/m.05h1pwb
+http://rdf.freebase.com/ns/m.0qlrh
+http://rdf.freebase.com/ns/m.02652sf
+http://rdf.freebase.com/ns/m.01bk3n
+http://rdf.freebase.com/ns/m.0cs0n74
+http://rdf.freebase.com/ns/m.0crdjwp
+http://rdf.freebase.com/ns/m.05zbxw
+http://rdf.freebase.com/ns/m.01bk3n

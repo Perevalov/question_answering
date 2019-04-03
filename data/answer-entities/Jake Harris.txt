@@ -1,0 +1,7 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/boats.ship_owner
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/boats.ship_owner
+http://rdf.freebase.com/ns/g.12557756y
+http://rdf.freebase.com/ns/m.04nb71d
+http://rdf.freebase.com/ns/m.0j2sdt8

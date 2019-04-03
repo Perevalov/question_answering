@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/user.spencermountain.default_domain.school_mascot
+http://rdf.freebase.com/ns/education.school_mascot
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/user.spencermountain.default_domain.school_mascot
+http://rdf.freebase.com/ns/education.school_mascot
+http://rdf.freebase.com/ns/g.12590668g
+http://rdf.freebase.com/ns/m.01y2hlx

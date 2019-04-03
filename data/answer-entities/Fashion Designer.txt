@@ -1,0 +1,8 @@
+http://rdf.freebase.com/ns/common.document
+http://rdf.freebase.com/ns/freebase.query
+http://rdf.freebase.com/ns/common.document
+http://rdf.freebase.com/ns/freebase.query
+http://rdf.freebase.com/ns/m.02_wrjq
+http://rdf.freebase.com/ns/m.02_wrk0
+http://rdf.freebase.com/ns/m.04j915y
+http://rdf.freebase.com/ns/m.02_wrkv

@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.body_of_water
+http://rdf.freebase.com/ns/geography.lake
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/geography.geographical_feature
+http://rdf.freebase.com/ns/geography.body_of_water
+http://rdf.freebase.com/ns/geography.lake
+http://rdf.freebase.com/ns/g.125bx18ms
+http://rdf.freebase.com/ns/m.01xs05r
+http://rdf.freebase.com/ns/m.0wn0sv8
+http://rdf.freebase.com/ns/m.01jjk
+http://rdf.freebase.com/ns/m.0g_wmhg
+http://rdf.freebase.com/ns/m.0gvvhmp

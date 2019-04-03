@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.character_occupation
+http://rdf.freebase.com/ns/fictional_universe.fictional_job_title
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.character_occupation
+http://rdf.freebase.com/ns/fictional_universe.fictional_job_title
+http://rdf.freebase.com/ns/g.1259jvdvh
+http://rdf.freebase.com/ns/m.02nwtn_
+http://rdf.freebase.com/ns/m.02pcf8b
+http://rdf.freebase.com/ns/m.046d6vq
+http://rdf.freebase.com/ns/m.04gf2gb
+http://rdf.freebase.com/ns/m.046d77x

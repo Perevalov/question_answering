@@ -1,0 +1,6 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/visual_art.color
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/visual_art.color
+http://rdf.freebase.com/ns/g.125c82qh2
+http://rdf.freebase.com/ns/m.01y2hcb

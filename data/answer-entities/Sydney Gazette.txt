@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.periodical
+http://rdf.freebase.com/ns/book.newspaper
+http://rdf.freebase.com/ns/base.convictsydney.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.periodical
+http://rdf.freebase.com/ns/book.newspaper
+http://rdf.freebase.com/ns/base.convictsydney.topic
+http://rdf.freebase.com/ns/g.12558lqpt
+http://rdf.freebase.com/ns/m.02k9yd8
+http://rdf.freebase.com/ns/m.0fr7nm
+http://rdf.freebase.com/ns/m.0h_kdp9
+http://rdf.freebase.com/ns/m.0h_kdpx
+http://rdf.freebase.com/ns/m.0chghy
+http://rdf.freebase.com/ns/m.0w5pm8d
+http://rdf.freebase.com/ns/m.0j1hjw1

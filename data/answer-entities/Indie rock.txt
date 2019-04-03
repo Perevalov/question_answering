@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/media_common.media_genre
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/broadcast.genre
+http://rdf.freebase.com/ns/film.film_genre
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/media_common.media_genre
+http://rdf.freebase.com/ns/music.genre
+http://rdf.freebase.com/ns/broadcast.genre
+http://rdf.freebase.com/ns/film.film_genre
+http://rdf.freebase.com/ns/g.125bm4wzy
+http://rdf.freebase.com/ns/m.0kpv1t
+http://rdf.freebase.com/ns/m.03s1jh_
+http://rdf.freebase.com/ns/m.01243l

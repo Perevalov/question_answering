@@ -1,0 +1,16 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/m.05blp6f
+http://rdf.freebase.com/ns/base.monetarydebase.debased_currency
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/m.05blp6f
+http://rdf.freebase.com/ns/base.monetarydebase.debased_currency
+http://rdf.freebase.com/ns/g.1259c0rkm
+http://rdf.freebase.com/ns/m.019_
+http://rdf.freebase.com/ns/m.0czvdtw
+http://rdf.freebase.com/ns/m.02cbmn6
+http://rdf.freebase.com/ns/m.01m4tt
+http://rdf.freebase.com/ns/m.0f8l9c
+http://rdf.freebase.com/ns/m.0gtzp
+http://rdf.freebase.com/ns/m.05b9mj9

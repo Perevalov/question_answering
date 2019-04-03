@@ -1,0 +1,3 @@
+http://rdf.freebase.com/ns/common.resource
+http://rdf.freebase.com/ns/common.resource
+http://rdf.freebase.com/ns/m.09mc7kg

@@ -1,0 +1,12 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.schemastaging.holiday_extra
+http://rdf.freebase.com/ns/time.holiday
+http://rdf.freebase.com/ns/time.day_of_year
+http://rdf.freebase.com/ns/time.holiday_period
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.schemastaging.holiday_extra
+http://rdf.freebase.com/ns/time.holiday
+http://rdf.freebase.com/ns/time.day_of_year
+http://rdf.freebase.com/ns/time.holiday_period
+http://rdf.freebase.com/ns/g.1259sy_0k
+http://rdf.freebase.com/ns/m.02h77f2

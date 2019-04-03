@@ -1,0 +1,14 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/base.events.topic
+http://rdf.freebase.com/ns/base.schemastaging.holiday_extra
+http://rdf.freebase.com/ns/time.holiday
+http://rdf.freebase.com/ns/base.events.type_of_festival
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/book.book_subject
+http://rdf.freebase.com/ns/base.events.topic
+http://rdf.freebase.com/ns/base.schemastaging.holiday_extra
+http://rdf.freebase.com/ns/time.holiday
+http://rdf.freebase.com/ns/base.events.type_of_festival
+http://rdf.freebase.com/ns/g.1256nnr3v
+http://rdf.freebase.com/ns/m.02h77f2

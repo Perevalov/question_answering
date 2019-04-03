@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/food.beer
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/food.beer
+http://rdf.freebase.com/ns/g.1259m4lfc
+http://rdf.freebase.com/ns/m.01xs0xq
+http://rdf.freebase.com/ns/m.04fwnz8
+http://rdf.freebase.com/ns/m.03_r3
+http://rdf.freebase.com/ns/m.04dr9x0
+http://rdf.freebase.com/ns/m.04dq_hc

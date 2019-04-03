@@ -1,0 +1,13 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.statistical_region
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.dated_location
+http://rdf.freebase.com/ns/location.administrative_division
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/location.statistical_region
+http://rdf.freebase.com/ns/location.location
+http://rdf.freebase.com/ns/location.dated_location
+http://rdf.freebase.com/ns/location.administrative_division
+http://rdf.freebase.com/ns/g.126tlt_p6
+http://rdf.freebase.com/ns/m.02hpz31
+http://rdf.freebase.com/ns/m.0160w

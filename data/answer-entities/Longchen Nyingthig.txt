@@ -1,0 +1,11 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/religion.religious_text
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/people.person
+http://rdf.freebase.com/ns/religion.religious_text
+http://rdf.freebase.com/ns/g.125flk0bl
+http://rdf.freebase.com/ns/m.02knxyp
+http://rdf.freebase.com/ns/m.04j3vhk
+http://rdf.freebase.com/ns/m.0c4pcr
+http://rdf.freebase.com/ns/m.092bf5

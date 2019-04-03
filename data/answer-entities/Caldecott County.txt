@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_setting
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/fictional_universe.fictional_setting
+http://rdf.freebase.com/ns/g.1258wnf8t
+http://rdf.freebase.com/ns/m.02h7lk_
+http://rdf.freebase.com/ns/m.015jby
+http://rdf.freebase.com/ns/m.04tgp
+http://rdf.freebase.com/ns/m.0m4jc
+http://rdf.freebase.com/ns/m.015jby

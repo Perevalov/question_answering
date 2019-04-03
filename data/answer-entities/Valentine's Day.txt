@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.webvideo.internet_video
+http://rdf.freebase.com/ns/base.webvideo.internet_video_episode
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/base.webvideo.topic
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.webvideo.internet_video
+http://rdf.freebase.com/ns/base.webvideo.internet_video_episode
+http://rdf.freebase.com/ns/tv.tv_series_episode
+http://rdf.freebase.com/ns/base.webvideo.topic
+http://rdf.freebase.com/ns/g.1q3sd131r
+http://rdf.freebase.com/ns/m.01xrzlb
+http://rdf.freebase.com/ns/m.0ksd71g
+http://rdf.freebase.com/ns/m.0_z76lf
+http://rdf.freebase.com/ns/m.0_hn97s

@@ -1,0 +1,10 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.swedishamericanbusiness.topic
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.swedishamericanbusiness.topic
+http://rdf.freebase.com/ns/finance.currency
+http://rdf.freebase.com/ns/g.125dhx334
+http://rdf.freebase.com/ns/m.019_
+http://rdf.freebase.com/ns/m.042qv38
+http://rdf.freebase.com/ns/m.0485y

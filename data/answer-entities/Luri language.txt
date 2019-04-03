@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/language.human_language
+http://rdf.freebase.com/ns/g.1257lwntx
+http://rdf.freebase.com/ns/m.0358
+http://rdf.freebase.com/ns/m.03h879
+http://rdf.freebase.com/ns/m.03shp
+http://rdf.freebase.com/ns/m.05sxb2v

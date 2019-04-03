@@ -1,0 +1,9 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/games.game
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/base.tagit.concept
+http://rdf.freebase.com/ns/games.game
+http://rdf.freebase.com/ns/g.1255cz17b
+http://rdf.freebase.com/ns/m.0220pfk
+http://rdf.freebase.com/ns/m.0dj8pc

@@ -1,0 +1,15 @@
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/music.single
+http://rdf.freebase.com/ns/music.recording
+http://rdf.freebase.com/ns/common.topic
+http://rdf.freebase.com/ns/music.single
+http://rdf.freebase.com/ns/music.recording
+http://rdf.freebase.com/ns/g.125t6xpjx
+http://rdf.freebase.com/ns/m.0kpv11
+http://rdf.freebase.com/ns/m.01wc8p9
+http://rdf.freebase.com/ns/m.0lc15k0
+http://rdf.freebase.com/ns/m.0sjm_zp
+http://rdf.freebase.com/ns/m.0sp38qp
+http://rdf.freebase.com/ns/m.035__23
+http://rdf.freebase.com/ns/m.0dymr5r
+http://rdf.freebase.com/ns/m.0dn5d8v

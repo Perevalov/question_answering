@@ -1,0 +1,5 @@
+http://rdf.freebase.com/ns/base.braziliangovt.brazilian_governmental_proposal
+http://rdf.freebase.com/ns/base.braziliangovt.politician
+http://rdf.freebase.com/ns/type.property
+http://rdf.freebase.com/ns/base.braziliangovt.brazilian_governmental_proposal
+http://rdf.freebase.com/ns/base.braziliangovt.politician
